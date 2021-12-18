@@ -1,0 +1,64 @@
+/*These are the approved styles for the cite  */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color:blue;
+    background-color: cadetblue;
+}
+
+ol {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.bold {
+    font-weight: bold;
+    font-style: normal;
+}
+
+a{
+    color:red;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+
+}
+
+
+li {
+    font-weight: normal;
+    font-style: italic;
+}
+
+.justify{
+    text-align: justify;
+}
+
+.homebg {
+  background-image: url('Images/Landscape.webp');
+  background-repeat: repeat
+}
+
+/* These styles were just to demonstrate */
+.box1{
+border-width: 1px;
+border-style:solid;
+border-color: black;
+border-bottom-color: black
+}
+
+.box2 {
+    padding:5px;
+}
+
+.box3 {
+    margin: 50px;
+}
+
+.box4 {
+    border-style: double;
+    border-color: black;
+}

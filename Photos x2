@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+    <link href="styles.css" rel="stylesheet" type="text/css">
+    <head>
+        <title>About Me</title>
+    <body>
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg navbar-light" id="mainNav">
+            <div class="container px-4 px-lg-5">
+                <a class="navbar-brand" href="index.html">Ryan Dixon</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                    Menu
+                    <i class="fas fa-bars"></i>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarResponsive">
+                    <ul class="navbar-nav ms-auto py-4 py-lg-0">
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="index.html">Home</a></li>
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="about.html">Education</a></li>
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="post.html">Experience</a></li>
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="post copy.html">Skills</a></li>
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="contact.html">Contact</a></li>
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="post copy 2.html">Photos</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <a href="../index.html" id="top">Home</a>
+        <a href="resume.html">Resume</a>
+        <a href="#">About Me</a>
+
+        <h1>About Me</h1>
+        <br>
+        <p class="box1"> <span class="bold"> An Introduction:</span> My name is Ryan Dixon. I am from American Fork Utah, and have
+             lived there for most of my life. At 18 years old I went on a mission for The Church of Jesus Christ of Latter Day Saints where I lived and served
+             the people of Albania and Kosovo for two years. Since then I have been going to BYU Provo with the hope of getting into the Accounting program.
+             I currently work at the MTC teaching Albanian. My hobbies include biking, soccer, guitar, and volleyball.</p>
+        <br><br>
+        <img src="../Images/Albania.jpg" alt="Ryan Dixon Albanian photo" width="500" class="box4"> <br><br>
+        <img src="../Images/Family.jpg" height="500" alt="Ryan Dixon Family photo" class="box4"> 
+        <br><br>
+        
+        
+     
+    </body>
+</html>
